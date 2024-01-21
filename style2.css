@@ -1,0 +1,31 @@
+body {
+    background: url(aerial-shot-snow-capped-mountains-with-calm-lake-daytime.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display: flex;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    align-items: center;
+    }
+
+div {
+    background: transparent;
+    backdrop-filter: blur(10px);
+    height: 400px;
+    width: 400px;
+    border: 1px solid slategray;
+    box-shadow: 5px 7px 9px slategray;
+    text-shadow: 3px 4px 5px lightgray;
+    border-radius: 8px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    font-size: 50px;
+    
+}
