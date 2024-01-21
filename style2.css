@@ -17,8 +17,8 @@ div {
     backdrop-filter: blur(10px);
     height: 400px;
     width: 400px;
-    border: 1px solid slategray;
-    box-shadow: 5px 7px 9px slategray;
+    border: 1px solid lightgray;
+    box-shadow: 5px 7px 9px lightgray;
     text-shadow: 3px 4px 5px lightgray;
     border-radius: 8px;
     color: white;
